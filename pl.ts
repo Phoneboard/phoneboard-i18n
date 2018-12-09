@@ -307,7 +307,7 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
         <location filename="../src/app/overlaysettings.cpp" line="194"/>
         <location filename="../src/app/overlaysettings.cpp" line="337"/>
         <source>Ground Color</source>
-        <translation>Kolor uziemienia</translation>
+        <translation>Kolor masy</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="245"/>
