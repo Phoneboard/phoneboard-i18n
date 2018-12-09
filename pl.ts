@@ -261,7 +261,7 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
         <location filename="../src/app/overlaysettings.cpp" line="68"/>
         <location filename="../src/app/overlaysettings.cpp" line="324"/>
         <source>Remember this software is &lt;b&gt;free&lt;/b&gt;. To report any issues go &lt;a href=&quot;https://github.com/phoneboard/phoneboard/issues&quot;&gt;here&lt;/a&gt;.&lt;br&gt;If you find the app useful, consider supporting me on &lt;a href=&quot;https://www.patreon.com/Phoneboard&quot;&gt;Patreon&lt;/a&gt; or donate on &lt;a href=&quot;https://www.paypal.me/phoneboardapp&quot;&gt;Paypal&lt;/a&gt;.Thank you!</source>
-        <translation>Pamiętaj to oprogramowanie jest  &lt;b&gt;darmowe&lt;/b&gt;. Żeby zgłosić jakieś problewy wejdź na &lt;a href=&quot;https://github.com/phoneboard/phoneboard/issues&quot;&gt;here&lt;/a&gt;.&lt;br&gt; Jeżeli uważasz, że aplikacja jest użyteczna, możesz wesprzeć mnie: &lt;a href=&quot;https://www.patreon.com/Phoneboard&quot;&gt;Patreon&lt;/a&gt; lub wpłacić: &lt;a href=&quot;https://www.paypal.me/phoneboardapp&quot;&gt;Paypal&lt;/a&gt;.Dziękuję!!</translation>
+        <translation>Pamiętaj to oprogramowanie jest  &lt;b&gt;darmowe&lt;/b&gt;. Żeby zgłosić jakieś problemy wejdź na: &lt;a href=&quot;https://github.com/phoneboard/phoneboard/issues&quot;&gt;here&lt;/a&gt;.&lt;br&gt; Jeżeli uważasz, że aplikacja jest użyteczna, możesz wesprzeć mnie: &lt;a href=&quot;https://www.patreon.com/Phoneboard&quot;&gt;Patreon&lt;/a&gt; lub wpłacić: &lt;a href=&quot;https://www.paypal.me/phoneboardapp&quot;&gt;Paypal&lt;/a&gt;.Dziękuję!!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="90"/>
