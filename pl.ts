@@ -82,20 +82,20 @@
         <location filename="../src/app/maintoolbar.cpp" line="300"/>
         <location filename="../src/app/maintoolbar.cpp" line="479"/>
         <source>Ground</source>
-        <translation>Uziemienie</translation>
+        <translation>Masa</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="302"/>
         <location filename="../src/app/maintoolbar.cpp" line="308"/>
         <location filename="../src/app/maintoolbar.cpp" line="481"/>
         <source>Hide Ground contacts</source>
-        <translation>Ukryj połączenia z uziemieniem</translation>
+        <translation>Ukryj połączenia z masą</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="310"/>
         <location filename="../src/app/maintoolbar.cpp" line="483"/>
         <source>Show Ground contacts</source>
-        <translation>Pokaż połączenia z uziemieniem</translation>
+        <translation>Pokaż połączenia z masą</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="320"/>
