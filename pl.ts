@@ -321,7 +321,7 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
     <message>
         <location filename="../src/app/overlaywelcome.cpp" line="53"/>
         <source>What&apos;s new in v%1!</source>
-        <translation>Co &apos; nowego w v%1!</</translation>
+        <translation>Co &apos; nowego w v%1!</translation>
     </message>
 </context>
 </TS>
