@@ -6,7 +6,7 @@ For translating, you need to have git and the Qt Linguist tool
 
 
 ### Creating a translation
-To add a new language you need to use the [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) code as the file name, for example Portuguese (ISO 639-1 code "pt")
+To add a new language you need to use the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code as the file name, for example Portuguese (ISO 639-1 code "pt")
 
 Copy the en.ts and rename it to pt.ts
 
