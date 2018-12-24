@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="77"/>
         <source>Net name</source>
-        <translation>Piirisarjan nimi</translation>
+        <translation>Linjan nimi</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="77"/>
@@ -205,7 +205,7 @@
         <location filename="../src/app/mainwindow.cpp" line="145"/>
         <location filename="../src/app/mainwindow.cpp" line="247"/>
         <source>Net name: %1</source>
-        <translation>Piirisarjan nimi: %1</translation>
+        <translation>Linjan nimi: %1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="150"/>
