@@ -17,3 +17,14 @@ Open the file with Qt Linguist to edit them
     linguist pt.ts
 
 When you've finished create a pull request.
+
+Translation credits.
+==================================
+* Arabic    [Haythem Hamdi]
+* Dansk     [Olgierd Nowakowski]
+* Polish    [Jakub Werwiński]
+* Hungarian [Dani Bá]
+* Cambodian		[IC Fix Sothy]
+* Italian		[Nicola Ripiccini]
+* Finnish		[Ruuben Vuolasranta]
+* French		[Occaz'out]
