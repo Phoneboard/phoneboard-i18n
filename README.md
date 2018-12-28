@@ -21,10 +21,15 @@ When you've finished create a pull request.
 Translation credits.
 ==================================
 * Arabic    [Haythem Hamdi]
-* Dansk     [Olgierd Nowakowski]
-* Polish    [Jakub Werwiński]
-* Hungarian [Dani Bá]
 * Cambodian		[IC Fix Sothy]
-* Italian		[Nicola Ripiccini]
+* Dansk     [Olgierd Nowakowski]
 * Finnish		[Ruuben Vuolasranta]
 * French		[Occaz'out]
+* French		[David ["At-M"](https://github.com/At-M) Schmidt]
+* Hungarian [Dani Bá]
+* Italian		[Nicola Ripiccini]
+* Polish    [Jakub Werwiński]
+
+
+
+
