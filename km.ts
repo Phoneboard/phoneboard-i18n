@@ -257,17 +257,17 @@
     <message>
         <location filename="../src/app/mainwindow.cpp" line="184"/>
         <source>The pin [%1] have contact on both sides.</source>
-        <translation>ជើង [% 1] មានទំនាក់ទំនងលើផ្ទាំងទាំងពីរ.</translation>
+        <translation>ជើង [%1] មានទំនាក់ទំនងលើផ្ទាំងទាំងពីរ.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="191"/>
         <source>The pin have contact on side %1 only.</source>
-        <translation>ជើងទំនាក់ទំនងនៅចំហៀង % 1 ប៉ុណ្ណោះ.</translation>
+        <translation>ជើងទំនាក់ទំនងនៅចំហៀង %1 ប៉ុណ្ណោះ.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="193"/>
         <source>The pin [%1] have contact on side %2 only.</source>
-        <translation>ជើង [% 1] មានទំនាក់ទំនងនៅចំហៀង % 2 ប៉ុណ្ណោះ.</translation>
+        <translation>ជើង [%1] មានទំនាក់ទំនងនៅចំហៀង %2 ប៉ុណ្ណោះ.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="225"/>
