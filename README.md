@@ -25,7 +25,7 @@ Translation credits.
 * Dansk     [Olgierd Nowakowski]
 * Finnish		[Ruuben Vuolasranta]
 * French		[Occaz'out]
-* French		[David ["At-M"](https://github.com/At-M) Schmidt]
+* German		[David "[At-M](https://github.com/At-M)" Schmidt]
 * Hungarian [Dani Bá]
 * Italian		[Nicola Ripiccini]
 * Polish    [Jakub Werwiński]
