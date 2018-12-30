@@ -20,16 +20,16 @@ When you've finished create a pull request.
 
 Translation credits.
 ==================================
-* Arabic    [Haythem Hamdi]
+* Arabic        [Haythem Hamdi]
 * Cambodian		[IC Fix Sothy]
-* Dansk     [Olgierd Nowakowski]
+* Croatian      [Saša Valić]
+* Dansk         [Olgierd Nowakowski]
 * Finnish		[Ruuben Vuolasranta]
 * French		[Occaz'out]
 * German		[David "[At-M](https://github.com/At-M)" Schmidt]
-* Hungarian [Dani Bá]
+* Hungarian     [Dani Bá]
 * Italian		[Nicola Ripiccini]
-* Polish    [Jakub Werwiński]
-
+* Polish        [Jakub Werwiński]
 
 
 
