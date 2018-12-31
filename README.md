@@ -32,6 +32,6 @@ Translation credits.
 | Hungarian     | Dani Bá|
 | Italian	    | Nicola Ripiccini|
 | Polish        | Jakub Werwiński|
-
+| Russian       | Олег Агекян|
 
 
