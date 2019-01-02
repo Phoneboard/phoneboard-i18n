@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="pl_PL">
 <context>
     <name>ComponentItemModel</name>
     <message>
@@ -16,17 +16,17 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="97"/>
         <source>Both</source>
-        <translation type="unfinished">Obie</translation>
+        <translation>Obie</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="99"/>
         <source>Side A</source>
-        <translation type="unfinished">Strona A</translation>
+        <translation>Strona A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="101"/>
         <source>Side B</source>
-        <translation type="unfinished">Strona B</translation>
+        <translation>Strona B</translation>
     </message>
 </context>
 <context>
@@ -79,20 +79,20 @@
         <location filename="../src/app/maintoolbar.cpp" line="306"/>
         <location filename="../src/app/maintoolbar.cpp" line="525"/>
         <source>No Connection</source>
-        <translation type="unfinished">Brak połączenia</translation>
+        <translation>Brak połączenia</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="310"/>
         <location filename="../src/app/maintoolbar.cpp" line="318"/>
         <location filename="../src/app/maintoolbar.cpp" line="527"/>
         <source>Hide No Connection pins</source>
-        <translation type="unfinished">Pokaż piny bez połączenia</translation>
+        <translation>Pokaż piny bez połączenia</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="320"/>
         <location filename="../src/app/maintoolbar.cpp" line="529"/>
         <source>Show No Connection pins</source>
-        <translation type="unfinished">Pokaż piny bez połączenia</translation>
+        <translation>Pokaż piny bez połączenia</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="329"/>
@@ -116,18 +116,18 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="348"/>
         <source>Diode Values</source>
-        <translation type="unfinished">Wartości diody</translation>
+        <translation>Wartości diody</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="350"/>
         <location filename="../src/app/maintoolbar.cpp" line="359"/>
         <source>Show Diode Values</source>
-        <translation type="unfinished">Pokaż wartości diody</translation>
+        <translation>Pokaż wartości diody</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="357"/>
         <source>Hide Diode Values</source>
-        <translation type="unfinished">Ukryj wartośći diody</translation>
+        <translation>Ukryj wartośći diody</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="369"/>
@@ -139,7 +139,7 @@
         <location filename="../src/app/maintoolbar.cpp" line="387"/>
         <location filename="../src/app/maintoolbar.cpp" line="538"/>
         <source>Show / Hide B</source>
-        <translation>Pokaż / Ukryj B </translation>
+        <translation>Pokaż / Ukryj B</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="407"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="../src/app/mainwindow.cpp" line="42"/>
         <source>Tools</source>
-        <translation type="unfinished">Narzędzia</translation>
+        <translation>Narzędzia</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="56"/>
@@ -222,12 +222,12 @@
     <message>
         <location filename="../src/app/mainwindow.cpp" line="118"/>
         <source>Side A</source>
-        <translation type="unfinished">Strona A</translation>
+        <translation>Strona A</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="120"/>
         <source>Side B</source>
-        <translation type="unfinished">Strona B</translation>
+        <translation>Strona B</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="132"/>
@@ -279,7 +279,7 @@
         <source>An update is available!
 Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;website&lt;/a&gt; to download.</source>
         <translation>Dostępna jest aktualizacja!
-		Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;website&lt;/a&gt; żeby ją pobrać.</translation>
+Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;/a&gt; ,żeby ją pobrać.</translation>
     </message>
 </context>
 <context>
@@ -308,12 +308,12 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="149"/>
         <source>Translators:</source>
-        <translation type="unfinished">Tłumaczenia:</translation>
+        <translation>Tłumaczenia:</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="163"/>
         <source>Arabic translation by: Haythem hamdi.&lt;br&gt;Dansk translation by: Olgierd Nowakowski.&lt;br&gt;Finnish translation by: Ruuben Vuolasranta.&lt;br&gt;Italian translation by: Nicola Ripoccini.&lt;br&gt;Cambodian translation by: IC Fix Sothy.&lt;br&gt;French translation by: Occaz&apos;out.&lt;br&gt;Hungarian translation by: Dani Bá.&lt;br&gt;Polish translation by: Jakub Werwiński.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="199"/>
@@ -343,12 +343,12 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
         <location filename="../src/app/overlaysettings.cpp" line="280"/>
         <location filename="../src/app/overlaysettings.cpp" line="489"/>
         <source>No Connection Color</source>
-        <translation type="unfinished">Kolor braku połączenia</translation>
+        <translation>Kolor braku połączenia</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="434"/>
         <source>Dark Mode</source>
-        <translation type="unfinished">Tryb nocny</translation>
+        <translation>Tryb nocny</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="282"/>
@@ -378,7 +378,7 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
     <message>
         <location filename="../src/app/overlaywelcome.cpp" line="53"/>
         <source>What&apos;s new in v%1!</source>
-        <translation>Co &apos; nowego w v%1!</translation>
+        <translation>Co nowego w v%1!</translation>
     </message>
 </context>
 </TS>
