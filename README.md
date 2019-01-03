@@ -33,5 +33,5 @@ Translation credits.
 | Italian	    | Nicola Ripiccini|
 | Polish        | Jakub Werwiński|
 | Russian       | Олег Агекян|
-
+| Norwegian Bokmål | Martin Refseth|
 
