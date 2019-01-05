@@ -31,7 +31,8 @@ Translation credits.
 | German        | David "[At-M](https://github.com/At-M)" Schmidt|
 | Hungarian     | Dani Bá|
 | Italian	    | Nicola Ripiccini|
+| Norwegian Bokmål | Martin Refseth|
 | Polish        | Jakub Werwiński|
 | Russian       | Олег Агекян|
-| Norwegian Bokmål | Martin Refseth|
+
 
