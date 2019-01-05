@@ -25,7 +25,7 @@ Translation credits.
 | Arabic        | Haythem Hamdi|
 | Cambodian	    | IC Fix Sothy|
 | Croatian      | Saša Valić|
-| Dansk         | Olgierd Nowakowski|
+| Danish        | Olgierd Nowakowski|
 | Finnish	    | Ruuben Vuolasranta|
 | French        | Occaz'out|
 | German        | David "[At-M](https://github.com/At-M)" Schmidt|
