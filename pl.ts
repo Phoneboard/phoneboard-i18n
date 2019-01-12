@@ -354,29 +354,29 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="95"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O mnie</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="95"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziennik zmian</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="95"/>
         <location filename="../src/app/overlaysettings.cpp" line="220"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="136"/>
         <location filename="../src/app/overlaysettings.cpp" line="513"/>
         <source>Remember this software is &lt;b&gt;free&lt;/b&gt;. To report any issues go &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt; or contact me at &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;If you find the app useful, consider supporting me on &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; or donate on &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; or &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;. Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamiętaj to oprogramowanie jest &lt;b&gt;darmowe&lt;/b&gt;. Aby zgłosić wszelkie problemy wejdź &lt;a href=&quot;%1&quot;&gt;tutaj&lt;/a&gt; lub napisz do mnie na  &lt;a href=&quot;%2&quot;&gt;Facebooku&lt;/a&gt;.&lt;br&gt;Jeżeli uważasz, że aplikacja jest przydatna, rozważ wsparcie mnie na &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; lub wpłać przez &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; lub &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;. Dziękuję!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="166"/>
         <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="335"/>
@@ -393,12 +393,12 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="456"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygładzanie krawędzi</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="459"/>
         <source>Antialiasing produces a better drawing quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygładzanie zapewnia lepszą jakość rysowania</translation>
     </message>
 </context>
 </TS>
