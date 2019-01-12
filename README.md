@@ -22,17 +22,18 @@ Translation credits.
 ==================================
 | Language | Translator |
 | --- | --- |
-| Arabic        | Haythem Hamdi|
-| Cambodian	    | IC Fix Sothy|
-| Croatian      | Saša Valić|
-| Danish        | Olgierd Nowakowski|
-| Finnish	    | Ruuben Vuolasranta|
-| French        | Occaz'out|
-| German        | David "[At-M](https://github.com/At-M)" Schmidt|
-| Hungarian     | Dani Bá|
-| Italian	    | Nicola Ripiccini|
-| Norwegian Bokmål | Martin Refseth|
-| Polish        | Jakub Werwiński|
-| Russian       | Олег Агекян|
+| Arabic            | Haythem Hamdi|
+| Cambodian	        | IC Fix Sothy|
+| Croatian          | Saša Valić|
+| Danish            | Olgierd Nowakowski|
+| Finnish	        | Ruuben Vuolasranta|
+| French            | Occaz'out|
+| German            | David "[At-M](https://github.com/At-M)" Schmidt|
+| Hungarian         | Dani Bá|
+| Italian	        | Nicola Ripiccini|
+| Lithuanian        |   [VeryFastSnail](https://github.com/VeryFastSnail) |
+| Norwegian Bokmål  | Martin Refseth|
+| Polish            | Jakub Werwiński|
+| Russian           | Олег Агекян|
 
 
