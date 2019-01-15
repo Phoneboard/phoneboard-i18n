@@ -354,7 +354,7 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="95"/>
         <source>About</source>
-        <translation>O mnie</translation>
+        <translation>Informacje</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="95"/>
