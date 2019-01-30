@@ -190,7 +190,7 @@
         <location filename="../src/app/mainwindow.cpp" line="42"/>
         <location filename="../src/app/mainwindow.cpp" line="309"/>
         <source>Open BRD</source>
-        <translation>Otwórz plik BRD</translation>
+        <translation>Otwórz BRD</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="43"/>
@@ -304,7 +304,7 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
         <location filename="../src/app/overlaysettings.cpp" line="135"/>
         <location filename="../src/app/overlaysettings.cpp" line="513"/>
         <source>Remember this software is &lt;b&gt;free&lt;/b&gt;. To report any issues go &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt; or contact me at &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;If you find the app useful, consider supporting me on &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; or donate on &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; or &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;.&lt;br&gt;Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamiętaj to oprogramowanie jest  &lt;b&gt;darmowe&lt;/b&gt;. Żeby zgłosić jakieś problemy kliknij &lt;a href=&quot;%1&quot;&gt;tutaj&lt;/a&gt; lub skontatkuj się ze mną na  &lt;a href=&quot;%2&quot;&gt;Facebooku&lt;/a&gt;.&lt;br&gt;Jeżeli uważasz tą aplikację za użyteczną, możesz wesprzeć mnie na &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; lub wpłacić przez  &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; albo zapłacić  &lt;a href=&quot;%5&quot;&gt;Bitcoinem&lt;/a&gt;.&lt;br&gt;Dziękuję!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="155"/>
