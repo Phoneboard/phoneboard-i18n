@@ -355,24 +355,24 @@ Mene Phoneboard &lt;a href=&quot;https://phoneboards.co&quot;&gt;sivustolle&lt;/
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="94"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoja</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="95"/>
         <location filename="../src/app/overlaysettings.cpp" line="199"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="97"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Muutoshistoria</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="135"/>
         <location filename="../src/app/overlaysettings.cpp" line="513"/>
         <source>Remember this software is &lt;b&gt;free&lt;/b&gt;. To report any issues go &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt; or contact me at &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;If you find the app useful, consider supporting me on &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; or donate on &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; or &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;.&lt;br&gt;Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Muista, että tämä ohjelma on &lt;b&gt;ilmainen&lt;/b&gt;. Ilmoita ongelmasta &lt;a href=&quot;%1&quot;&gt;tänne&lt;/a&gt; tai ota yhteyttä &lt;a href=&quot;%2&quot;&gt;Facebookissa&lt;/a&gt;.&lt;br&gt;Jos pidät ohjelmasta, harkitse tukemistani palvelussa &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; tai lahjoittamalla &lt;a href=&quot;%4&quot;&gt;Paypalilla&lt;/a&gt; tai &lt;a href=&quot;%5&quot;&gt;Bitcoinilla&lt;/a&gt;.&lt;br&gt;Kiitos!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="165"/>
@@ -395,13 +395,13 @@ Mene Phoneboard &lt;a href=&quot;https://phoneboards.co&quot;&gt;sivustolle&lt;/
         <location filename="../src/app/overlaysettings.cpp" line="434"/>
         <location filename="../src/app/overlaysettings.cpp" line="533"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunojen pehmennys</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="437"/>
         <location filename="../src/app/overlaysettings.cpp" line="535"/>
         <source>Antialiasing produces a better drawing quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunojen pehmennys tuottaa paremman kuvanlaadun</translation>
     </message>
 </context>
 </TS>
