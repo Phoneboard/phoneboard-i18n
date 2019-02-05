@@ -31,9 +31,10 @@ Translation credits.
 | German            | David "[At-M](https://github.com/At-M)" Schmidt|
 | Hungarian         | Dani Bá|
 | Italian	        | Nicola Ripiccini|
-| Lithuanian        |   [VeryFastSnail](https://github.com/VeryFastSnail) |
+| Lithuanian        | [VeryFastSnail](https://github.com/VeryFastSnail) |
 | Norwegian Bokmål  | Martin Refseth|
 | Polish            | Jakub Werwiński|
 | Russian           | Олег Агекян|
+|Slovenian          | Jernej Klarič [@deecoy1337](https://github.com/deecoy1337)|
 
 
