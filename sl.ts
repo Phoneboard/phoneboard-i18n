@@ -401,7 +401,7 @@ Prosimo obiščite Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;sp
         <location filename="../src/app/overlaysettings.cpp" line="437"/>
         <location filename="../src/app/overlaysettings.cpp" line="535"/>
         <source>Antialiasing produces a better drawing quality</source>
-        <translation>Antialiasing produces a better drawing quality</translation>
+        <translation>Antialiasing izboljša kvaliteto izrisovanja</translation>
     </message>
 </context>
 </TS>
