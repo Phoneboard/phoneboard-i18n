@@ -225,109 +225,109 @@
         <location filename="../src/app/mainwindow.cpp" line="296"/>
         <location filename="../src/app/mainwindow.cpp" line="415"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="298"/>
         <location filename="../src/app/mainwindow.cpp" line="416"/>
         <source>About</source>
-        <translation type="unfinished">Informacje</translation>
+        <translation>Informacje</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="300"/>
         <location filename="../src/app/mainwindow.cpp" line="417"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencje</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="311"/>
         <location filename="../src/app/mainwindow.cpp" line="418"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Widok</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="313"/>
         <location filename="../src/app/mainwindow.cpp" line="419"/>
         <source>Show Side A</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż stronę A</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="320"/>
         <location filename="../src/app/mainwindow.cpp" line="420"/>
         <source>Show Side B</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż stronę B</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="326"/>
         <location filename="../src/app/mainwindow.cpp" line="421"/>
         <source>Show Both Sides</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż obydwie strony</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="333"/>
         <location filename="../src/app/mainwindow.cpp" line="422"/>
         <source>Toggle Component Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz nazwę komponentu</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="336"/>
         <location filename="../src/app/mainwindow.cpp" line="423"/>
         <source>Toggle Pin Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz nazwę pinu</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="339"/>
         <location filename="../src/app/mainwindow.cpp" line="424"/>
         <source>Toggle No Connection Pads</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz pady bez połączenia</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="342"/>
         <location filename="../src/app/mainwindow.cpp" line="425"/>
         <source>Toggle Ground Pads</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz pady masy</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="345"/>
         <location filename="../src/app/mainwindow.cpp" line="426"/>
         <source>Toggle Diode Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz wartości diody</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="350"/>
         <location filename="../src/app/mainwindow.cpp" line="427"/>
         <source>Reset Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj przybliżenie</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="353"/>
         <location filename="../src/app/mainwindow.cpp" line="428"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Przybliżenie</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="356"/>
         <location filename="../src/app/mainwindow.cpp" line="429"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddalenie</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="359"/>
         <location filename="../src/app/mainwindow.cpp" line="430"/>
         <source>Reset Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj obrót</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="362"/>
         <location filename="../src/app/mainwindow.cpp" line="431"/>
         <source>Rotate Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrót w prawo</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="365"/>
         <location filename="../src/app/mainwindow.cpp" line="432"/>
         <source>Rotate Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrtót w lewo</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="1021"/>
@@ -425,7 +425,7 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="187"/>
         <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="231"/>
@@ -466,12 +466,12 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="476"/>
         <source>Open Board Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz przycisk płyty</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="479"/>
         <source>Show / Hide The Open BRD button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż / Ukryj przycisk otwierania BRD.</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="285"/>
