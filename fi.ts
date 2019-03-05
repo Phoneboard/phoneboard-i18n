@@ -79,7 +79,7 @@
         <location filename="../src/app/maintoolbar.cpp" line="237"/>
         <location filename="../src/app/maintoolbar.cpp" line="419"/>
         <source>No Connection</source>
-        <translation>Tyhjät kontaktit</translation>
+        <translation>Ei kontaktia</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="241"/>
@@ -105,13 +105,13 @@
         <location filename="../src/app/maintoolbar.cpp" line="262"/>
         <location filename="../src/app/maintoolbar.cpp" line="427"/>
         <source>Hide Ground contacts</source>
-        <translation>Piilota maadoitus</translation>
+        <translation>Piilota maadoitetut kontaktit</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="264"/>
         <location filename="../src/app/maintoolbar.cpp" line="429"/>
         <source>Show Ground contacts</source>
-        <translation>Näytä maadoitus</translation>
+        <translation>Näytä maadoitetut kontaktit</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="272"/>
@@ -187,12 +187,12 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="434"/>
         <source>Hide Diode values</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilota diodiarvot</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="436"/>
         <source>Show Diode values</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä diodiarvot</translation>
     </message>
 </context>
 <context>
@@ -239,109 +239,109 @@
         <location filename="../src/app/mainwindow.cpp" line="296"/>
         <location filename="../src/app/mainwindow.cpp" line="418"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedosto</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="298"/>
         <location filename="../src/app/mainwindow.cpp" line="419"/>
         <source>About</source>
-        <translation type="unfinished">Tietoja</translation>
+        <translation>Tietoa ohjelmasta</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="300"/>
         <location filename="../src/app/mainwindow.cpp" line="420"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="311"/>
         <location filename="../src/app/mainwindow.cpp" line="421"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Näkymä</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="313"/>
         <location filename="../src/app/mainwindow.cpp" line="422"/>
         <source>Show Side A</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä A-puoli</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="320"/>
         <location filename="../src/app/mainwindow.cpp" line="423"/>
         <source>Show Side B</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä B-puoli</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="326"/>
         <location filename="../src/app/mainwindow.cpp" line="424"/>
         <source>Show Both Sides</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä molemmat puolet</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="333"/>
         <location filename="../src/app/mainwindow.cpp" line="425"/>
         <source>Toggle Component Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä komponenttien nimet</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="336"/>
         <location filename="../src/app/mainwindow.cpp" line="426"/>
         <source>Toggle Pin Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä pinnien nimet</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="339"/>
         <location filename="../src/app/mainwindow.cpp" line="427"/>
         <source>Toggle No Connection Pads</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä tyhjät kontaktit</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="342"/>
         <location filename="../src/app/mainwindow.cpp" line="428"/>
         <source>Toggle Ground Pads</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä maadoitetut kontaktit</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="345"/>
         <location filename="../src/app/mainwindow.cpp" line="429"/>
         <source>Toggle Diode Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä diodiarvot</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="350"/>
         <location filename="../src/app/mainwindow.cpp" line="430"/>
         <source>Reset Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta zoomaus</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="353"/>
         <location filename="../src/app/mainwindow.cpp" line="431"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoomaa lähemmäksi</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="356"/>
         <location filename="../src/app/mainwindow.cpp" line="432"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoomaa kauemmaksi</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="359"/>
         <location filename="../src/app/mainwindow.cpp" line="433"/>
         <source>Reset Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta asento</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="362"/>
         <location filename="../src/app/mainwindow.cpp" line="434"/>
         <source>Rotate Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierrä myötäpäivään</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="365"/>
         <location filename="../src/app/mainwindow.cpp" line="435"/>
         <source>Rotate Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierrä vastapäivään</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="1024"/>
@@ -433,7 +433,7 @@ Mene Phoneboard &lt;a href=&quot;https://phoneboards.co&quot;&gt;sivustolle&lt;/
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="187"/>
         <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="231"/>
@@ -475,13 +475,13 @@ Mene Phoneboard &lt;a href=&quot;https://phoneboards.co&quot;&gt;sivustolle&lt;/
         <location filename="../src/app/overlaysettings.cpp" line="488"/>
         <location filename="../src/app/overlaysettings.cpp" line="620"/>
         <source>Open Board Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa BRD-painike</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="491"/>
         <location filename="../src/app/overlaysettings.cpp" line="622"/>
         <source>Show / Hide The Open BRD button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä / Piilota Avaa BRD-painike pääikkunassa.</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="285"/>
@@ -497,7 +497,7 @@ Mene Phoneboard &lt;a href=&quot;https://phoneboards.co&quot;&gt;sivustolle&lt;/
         <location filename="../src/app/overlaysettings.cpp" line="108"/>
         <location filename="../src/app/overlaysettings.cpp" line="631"/>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation>Tietoa ohjelmasta</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="109"/>
@@ -511,7 +511,7 @@ Mene Phoneboard &lt;a href=&quot;https://phoneboards.co&quot;&gt;sivustolle&lt;/
         <location filename="../src/app/overlaysettings.cpp" line="111"/>
         <location filename="../src/app/overlaysettings.cpp" line="638"/>
         <source>Changelog</source>
-        <translation>Muutoshistoria</translation>
+        <translation>Päivityshistoria</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="153"/>
