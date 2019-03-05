@@ -115,6 +115,7 @@
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="272"/>
+        <location filename="../src/app/maintoolbar.cpp" line="432"/>
         <source>Diode Values</source>
         <translation>Diode Verdier</translation>
     </message>
@@ -131,57 +132,67 @@
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="290"/>
-        <location filename="../src/app/maintoolbar.cpp" line="431"/>
+        <location filename="../src/app/maintoolbar.cpp" line="438"/>
         <source>Show / Hide A</source>
         <translation>Vis / Gjem A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="303"/>
-        <location filename="../src/app/maintoolbar.cpp" line="432"/>
+        <location filename="../src/app/maintoolbar.cpp" line="439"/>
         <source>Show / Hide B</source>
         <translation>Vis / Gjem B</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="317"/>
-        <location filename="../src/app/maintoolbar.cpp" line="433"/>
+        <location filename="../src/app/maintoolbar.cpp" line="440"/>
         <source>Show both sides</source>
         <translation>Vis begge sidene</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="329"/>
-        <location filename="../src/app/maintoolbar.cpp" line="434"/>
+        <location filename="../src/app/maintoolbar.cpp" line="441"/>
         <source>Reset zoom</source>
         <translation>Tilbakestill zoom</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="341"/>
-        <location filename="../src/app/maintoolbar.cpp" line="435"/>
+        <location filename="../src/app/maintoolbar.cpp" line="442"/>
         <source>Zoom in</source>
         <translation>Zoom inn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="351"/>
-        <location filename="../src/app/maintoolbar.cpp" line="436"/>
+        <location filename="../src/app/maintoolbar.cpp" line="443"/>
         <source>Zoom out</source>
         <translation>Zoom ut</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="363"/>
-        <location filename="../src/app/maintoolbar.cpp" line="437"/>
+        <location filename="../src/app/maintoolbar.cpp" line="444"/>
         <source>Reset rotation</source>
         <translation>Tilbakestill rotasjon</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="374"/>
-        <location filename="../src/app/maintoolbar.cpp" line="438"/>
+        <location filename="../src/app/maintoolbar.cpp" line="445"/>
         <source>Rotate right</source>
         <translation>Roter til høyre</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="385"/>
-        <location filename="../src/app/maintoolbar.cpp" line="439"/>
+        <location filename="../src/app/maintoolbar.cpp" line="446"/>
         <source>Rotate left</source>
         <translation>Roter til venstre</translation>
+    </message>
+    <message>
+        <location filename="../src/app/maintoolbar.cpp" line="434"/>
+        <source>Hide Diode values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/maintoolbar.cpp" line="436"/>
+        <source>Show Diode values</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -196,18 +207,21 @@
     <message>
         <location filename="../src/app/mainwindow.cpp" line="49"/>
         <location filename="../src/app/mainwindow.cpp" line="401"/>
-        <location filename="../src/app/mainwindow.cpp" line="405"/>
+        <location filename="../src/app/mainwindow.cpp" line="407"/>
         <source>Phones</source>
         <translation>Telefoner</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="50"/>
-        <location filename="../src/app/mainwindow.cpp" line="407"/>
+        <location filename="../src/app/mainwindow.cpp" line="402"/>
+        <location filename="../src/app/mainwindow.cpp" line="408"/>
         <source>Tablets</source>
         <translation>Nettbrett</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="51"/>
+        <location filename="../src/app/mainwindow.cpp" line="403"/>
+        <location filename="../src/app/mainwindow.cpp" line="409"/>
         <source>Tools</source>
         <translation>Verktøy</translation>
     </message>
@@ -223,140 +237,140 @@
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="296"/>
-        <location filename="../src/app/mainwindow.cpp" line="415"/>
+        <location filename="../src/app/mainwindow.cpp" line="418"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="298"/>
-        <location filename="../src/app/mainwindow.cpp" line="416"/>
+        <location filename="../src/app/mainwindow.cpp" line="419"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="300"/>
-        <location filename="../src/app/mainwindow.cpp" line="417"/>
+        <location filename="../src/app/mainwindow.cpp" line="420"/>
         <source>Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="311"/>
-        <location filename="../src/app/mainwindow.cpp" line="418"/>
+        <location filename="../src/app/mainwindow.cpp" line="421"/>
         <source>View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="313"/>
-        <location filename="../src/app/mainwindow.cpp" line="419"/>
+        <location filename="../src/app/mainwindow.cpp" line="422"/>
         <source>Show Side A</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="320"/>
-        <location filename="../src/app/mainwindow.cpp" line="420"/>
+        <location filename="../src/app/mainwindow.cpp" line="423"/>
         <source>Show Side B</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="326"/>
-        <location filename="../src/app/mainwindow.cpp" line="421"/>
+        <location filename="../src/app/mainwindow.cpp" line="424"/>
         <source>Show Both Sides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="333"/>
-        <location filename="../src/app/mainwindow.cpp" line="422"/>
+        <location filename="../src/app/mainwindow.cpp" line="425"/>
         <source>Toggle Component Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="336"/>
-        <location filename="../src/app/mainwindow.cpp" line="423"/>
+        <location filename="../src/app/mainwindow.cpp" line="426"/>
         <source>Toggle Pin Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="339"/>
-        <location filename="../src/app/mainwindow.cpp" line="424"/>
+        <location filename="../src/app/mainwindow.cpp" line="427"/>
         <source>Toggle No Connection Pads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="342"/>
-        <location filename="../src/app/mainwindow.cpp" line="425"/>
+        <location filename="../src/app/mainwindow.cpp" line="428"/>
         <source>Toggle Ground Pads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="345"/>
-        <location filename="../src/app/mainwindow.cpp" line="426"/>
+        <location filename="../src/app/mainwindow.cpp" line="429"/>
         <source>Toggle Diode Values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="350"/>
-        <location filename="../src/app/mainwindow.cpp" line="427"/>
+        <location filename="../src/app/mainwindow.cpp" line="430"/>
         <source>Reset Zoom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="353"/>
-        <location filename="../src/app/mainwindow.cpp" line="428"/>
+        <location filename="../src/app/mainwindow.cpp" line="431"/>
         <source>Zoom In</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="356"/>
-        <location filename="../src/app/mainwindow.cpp" line="429"/>
+        <location filename="../src/app/mainwindow.cpp" line="432"/>
         <source>Zoom Out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="359"/>
-        <location filename="../src/app/mainwindow.cpp" line="430"/>
+        <location filename="../src/app/mainwindow.cpp" line="433"/>
         <source>Reset Rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="362"/>
-        <location filename="../src/app/mainwindow.cpp" line="431"/>
+        <location filename="../src/app/mainwindow.cpp" line="434"/>
         <source>Rotate Right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="365"/>
-        <location filename="../src/app/mainwindow.cpp" line="432"/>
+        <location filename="../src/app/mainwindow.cpp" line="435"/>
         <source>Rotate Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/mainwindow.cpp" line="1021"/>
+        <location filename="../src/app/mainwindow.cpp" line="1024"/>
         <source>Side A</source>
         <translation>Side A</translation>
     </message>
     <message>
-        <location filename="../src/app/mainwindow.cpp" line="1023"/>
+        <location filename="../src/app/mainwindow.cpp" line="1026"/>
         <source>Side B</source>
         <translation>Side B</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="142"/>
         <location filename="../src/app/mainwindow.cpp" line="182"/>
-        <location filename="../src/app/mainwindow.cpp" line="408"/>
+        <location filename="../src/app/mainwindow.cpp" line="411"/>
         <source>Cursor: %1</source>
         <translation>Markør:%1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="146"/>
         <location filename="../src/app/mainwindow.cpp" line="187"/>
-        <location filename="../src/app/mainwindow.cpp" line="409"/>
+        <location filename="../src/app/mainwindow.cpp" line="412"/>
         <source>Pin name: %1</source>
         <translation>Pinne navn %1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="150"/>
         <location filename="../src/app/mainwindow.cpp" line="188"/>
-        <location filename="../src/app/mainwindow.cpp" line="410"/>
+        <location filename="../src/app/mainwindow.cpp" line="413"/>
         <source>Net name: %1</source>
         <translation>Nett navn %1</translation>
     </message>
@@ -405,19 +419,19 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
     <name>OverlaySettings</name>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="139"/>
-        <location filename="../src/app/overlaysettings.cpp" line="580"/>
+        <location filename="../src/app/overlaysettings.cpp" line="592"/>
         <source>Welcome to Phoneboard!</source>
         <translation>Velkommen til Phoneboard!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="153"/>
-        <location filename="../src/app/overlaysettings.cpp" line="581"/>
+        <location filename="../src/app/overlaysettings.cpp" line="593"/>
         <source>Remember this software is &lt;b&gt;free&lt;/b&gt;. To report any issues go &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt; or contact me at &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;If you find the app useful, consider supporting me on &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; or donate on &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; or &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;.&lt;br&gt;Thank you!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="173"/>
-        <location filename="../src/app/overlaysettings.cpp" line="593"/>
+        <location filename="../src/app/overlaysettings.cpp" line="605"/>
         <source>Translators:</source>
         <translation>Oversettere:</translation>
     </message>
@@ -428,101 +442,103 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="231"/>
-        <location filename="../src/app/overlaysettings.cpp" line="576"/>
+        <location filename="../src/app/overlaysettings.cpp" line="588"/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="264"/>
-        <location filename="../src/app/overlaysettings.cpp" line="575"/>
+        <location filename="../src/app/overlaysettings.cpp" line="587"/>
         <source>Split Board</source>
         <translation>Del Kort</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="266"/>
-        <location filename="../src/app/overlaysettings.cpp" line="577"/>
+        <location filename="../src/app/overlaysettings.cpp" line="589"/>
         <source>Horizontal</source>
         <translation>Horisontalt</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="267"/>
-        <location filename="../src/app/overlaysettings.cpp" line="578"/>
+        <location filename="../src/app/overlaysettings.cpp" line="590"/>
         <source>Vertical</source>
         <translation>Vertikalt</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="283"/>
-        <location filename="../src/app/overlaysettings.cpp" line="594"/>
+        <location filename="../src/app/overlaysettings.cpp" line="606"/>
         <source>No Connection Color</source>
         <translation>Ingen Tilkoblings farge</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="444"/>
-        <location filename="../src/app/overlaysettings.cpp" line="600"/>
+        <location filename="../src/app/overlaysettings.cpp" line="456"/>
+        <location filename="../src/app/overlaysettings.cpp" line="612"/>
         <source>Dark Mode</source>
         <translation>Mørke Modus</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="476"/>
+        <location filename="../src/app/overlaysettings.cpp" line="488"/>
+        <location filename="../src/app/overlaysettings.cpp" line="620"/>
         <source>Open Board Button</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="479"/>
+        <location filename="../src/app/overlaysettings.cpp" line="491"/>
+        <location filename="../src/app/overlaysettings.cpp" line="622"/>
         <source>Show / Hide The Open BRD button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="285"/>
-        <location filename="../src/app/overlaysettings.cpp" line="339"/>
-        <location filename="../src/app/overlaysettings.cpp" line="392"/>
-        <location filename="../src/app/overlaysettings.cpp" line="595"/>
-        <location filename="../src/app/overlaysettings.cpp" line="597"/>
-        <location filename="../src/app/overlaysettings.cpp" line="599"/>
+        <location filename="../src/app/overlaysettings.cpp" line="343"/>
+        <location filename="../src/app/overlaysettings.cpp" line="400"/>
+        <location filename="../src/app/overlaysettings.cpp" line="607"/>
+        <location filename="../src/app/overlaysettings.cpp" line="609"/>
+        <location filename="../src/app/overlaysettings.cpp" line="611"/>
         <source>Reset</source>
         <translation>Tilbakestill</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="108"/>
-        <location filename="../src/app/overlaysettings.cpp" line="612"/>
+        <location filename="../src/app/overlaysettings.cpp" line="631"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="111"/>
-        <location filename="../src/app/overlaysettings.cpp" line="619"/>
+        <location filename="../src/app/overlaysettings.cpp" line="638"/>
         <source>Changelog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="109"/>
         <location filename="../src/app/overlaysettings.cpp" line="222"/>
-        <location filename="../src/app/overlaysettings.cpp" line="573"/>
-        <location filename="../src/app/overlaysettings.cpp" line="615"/>
+        <location filename="../src/app/overlaysettings.cpp" line="585"/>
+        <location filename="../src/app/overlaysettings.cpp" line="634"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="337"/>
-        <location filename="../src/app/overlaysettings.cpp" line="596"/>
+        <location filename="../src/app/overlaysettings.cpp" line="341"/>
+        <location filename="../src/app/overlaysettings.cpp" line="608"/>
         <source>Ground Color</source>
         <translation>Jord Farge</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="390"/>
-        <location filename="../src/app/overlaysettings.cpp" line="598"/>
+        <location filename="../src/app/overlaysettings.cpp" line="398"/>
+        <location filename="../src/app/overlaysettings.cpp" line="610"/>
         <source>Active Color</source>
         <translation>Aktiv Farge</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="457"/>
-        <location filename="../src/app/overlaysettings.cpp" line="601"/>
+        <location filename="../src/app/overlaysettings.cpp" line="469"/>
+        <location filename="../src/app/overlaysettings.cpp" line="613"/>
         <source>Antialiasing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="460"/>
-        <location filename="../src/app/overlaysettings.cpp" line="603"/>
+        <location filename="../src/app/overlaysettings.cpp" line="472"/>
+        <location filename="../src/app/overlaysettings.cpp" line="615"/>
         <source>Antialiasing produces a better drawing quality</source>
         <translation type="unfinished"></translation>
     </message>
