@@ -115,7 +115,7 @@
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="272"/>
-        <location filename="../src/app/maintoolbar.cpp" line="432"/>
+        <location filename="../src/app/maintoolbar.cpp" line="431"/>
         <source>Diode Values</source>
         <translation type="unfinished"></translation>
     </message>
@@ -132,65 +132,65 @@
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="290"/>
-        <location filename="../src/app/maintoolbar.cpp" line="438"/>
+        <location filename="../src/app/maintoolbar.cpp" line="437"/>
         <source>Show / Hide A</source>
         <translation>បង្ហាញ / លាក់ A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="303"/>
-        <location filename="../src/app/maintoolbar.cpp" line="439"/>
+        <location filename="../src/app/maintoolbar.cpp" line="438"/>
         <source>Show / Hide B</source>
         <translation>បង្ហាញ / លាក់ B</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="317"/>
-        <location filename="../src/app/maintoolbar.cpp" line="440"/>
+        <location filename="../src/app/maintoolbar.cpp" line="439"/>
         <source>Show both sides</source>
         <translation>បង្ហាញទាំងពីរ A នឹង B</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="329"/>
-        <location filename="../src/app/maintoolbar.cpp" line="441"/>
+        <location filename="../src/app/maintoolbar.cpp" line="440"/>
         <source>Reset zoom</source>
         <translation>កំណត់ការពង្រីកឡើងវិញ</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="341"/>
-        <location filename="../src/app/maintoolbar.cpp" line="442"/>
+        <location filename="../src/app/maintoolbar.cpp" line="441"/>
         <source>Zoom in</source>
         <translation>ពង្រីក</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="351"/>
-        <location filename="../src/app/maintoolbar.cpp" line="443"/>
+        <location filename="../src/app/maintoolbar.cpp" line="442"/>
         <source>Zoom out</source>
         <translation>បង្រួម</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="363"/>
-        <location filename="../src/app/maintoolbar.cpp" line="444"/>
+        <location filename="../src/app/maintoolbar.cpp" line="443"/>
         <source>Reset rotation</source>
         <translation>កំណត់ការបង្វិលឡើងវិញ</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="374"/>
-        <location filename="../src/app/maintoolbar.cpp" line="445"/>
+        <location filename="../src/app/maintoolbar.cpp" line="444"/>
         <source>Rotate right</source>
         <translation>បង្វិលទៅស្តាំ</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="385"/>
-        <location filename="../src/app/maintoolbar.cpp" line="446"/>
+        <location filename="../src/app/maintoolbar.cpp" line="445"/>
         <source>Rotate left</source>
         <translation>បង្វិលទៅឆ្វេង</translation>
     </message>
     <message>
-        <location filename="../src/app/maintoolbar.cpp" line="434"/>
+        <location filename="../src/app/maintoolbar.cpp" line="433"/>
         <source>Hide Diode values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/maintoolbar.cpp" line="436"/>
+        <location filename="../src/app/maintoolbar.cpp" line="435"/>
         <source>Show Diode values</source>
         <translation type="unfinished"></translation>
     </message>
