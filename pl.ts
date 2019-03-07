@@ -187,12 +187,12 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="433"/>
         <source>Hide Diode values</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj wartości diody</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="435"/>
         <source>Show Diode values</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wartości diody</translation>
     </message>
 </context>
 <context>
