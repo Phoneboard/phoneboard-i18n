@@ -34,7 +34,6 @@ Translation credits.
 | Lithuanian        | [VeryFastSnail](https://github.com/VeryFastSnail) |
 | Norwegian Bokmål  | Martin Refseth|
 | Polish            | Jakub Werwiński|
+| Portuguese        | Rúben Carneiro|(https://github.com/rubencarneiro)
 | Russian           | Олег Агекян|
 |Slovenian          | Jernej Klarič [@deecoy1337](https://github.com/deecoy1337)|
-
-
