@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es">
+<TS version="2.1" language="pt-BR">
 <context>
     <name>ComponentItemModel</name>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="86"/>
         <source>Net name</source>
-        <translation>Linea</translation>
+        <translation>Nome da linha</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="86"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="93"/>
         <source>Side A</source>
-        <translation></translation>
+        <translation>Lado A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="95"/>
         <source>Side B</source>
-        <translation></translation>
+        <translation>Lado B</translation>
     </message>
 </context>
 <context>
@@ -34,17 +34,17 @@
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="74"/>
         <source>How we search for schematics</source>
-        <translation>Como buscalos los esquematicos</translation>
+        <translation>Como localizar os esquemas</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="76"/>
         <source>Phoneboard will try to load the schematics from the folder with the predefined name. If the file is not found in the folder it will try to load it from the single file configuration.</source>
-        <translation>Phoneboard intentará cargar los esquemáticos desde la carpeta con los nombres preestablecidos. Si el archivo no se encuentra en la carpeta intentará cargarlo desde la configuración individual.</translation>
+        <translation>Phoneboard irá carregar os esquemas que estiverem na pasta especificada e contarem com os nomes predefinidos. Se o arquivo nao for achado na pasta especificada o programa tentará carrega-lo a partir da localização individual que for especificada nas configurações abaixo.</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="80"/>
         <source>Predefined names</source>
-        <translation>Nombres Predefinidos</translation>
+        <translation>Nomes predefinidos</translation>
     </message>
 </context>
 <context>
@@ -53,19 +53,19 @@
         <location filename="../src/app/maintoolbar.cpp" line="198"/>
         <location filename="../src/app/maintoolbar.cpp" line="582"/>
         <source>Search...</source>
-        <translation>Buscar...</translation>
+        <translation>Procurar...</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="245"/>
         <location filename="../src/app/maintoolbar.cpp" line="252"/>
         <location filename="../src/app/maintoolbar.cpp" line="594"/>
         <source>Show Schematic</source>
-        <translation>Mostrar esquemático</translation>
+        <translation>Ver esquema</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="250"/>
         <source>Hide Schematic</source>
-        <translation>Ocultar esquemático</translation>
+        <translation>Ocultar esquema</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="261"/>
@@ -77,7 +77,7 @@
         <location filename="../src/app/maintoolbar.cpp" line="269"/>
         <location filename="../src/app/maintoolbar.cpp" line="368"/>
         <source>Component name</source>
-        <translation>Nombre del componente</translation>
+        <translation>Nome do componente</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="272"/>
@@ -85,19 +85,19 @@
         <location filename="../src/app/maintoolbar.cpp" line="371"/>
         <location filename="../src/app/maintoolbar.cpp" line="376"/>
         <source>Hide Components names</source>
-        <translation>Ocultar los nombres de los componentes</translation>
+        <translation>Ocultar nome dos componentes</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="279"/>
         <location filename="../src/app/maintoolbar.cpp" line="378"/>
         <source>Show Components names</source>
-        <translation>Mostrar los nombres de los componentes</translation>
+        <translation>Mostrar nome dos componentes</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="289"/>
         <location filename="../src/app/maintoolbar.cpp" line="388"/>
         <source>Pin name</source>
-        <translation>Nombre del contacto</translation>
+        <translation>Nome do pad</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="292"/>
@@ -105,19 +105,19 @@
         <location filename="../src/app/maintoolbar.cpp" line="391"/>
         <location filename="../src/app/maintoolbar.cpp" line="396"/>
         <source>Hide Pins names</source>
-        <translation>Ocultar nombres de los contactos</translation>
+        <translation>Ocultar nomes dos pads</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="299"/>
         <location filename="../src/app/maintoolbar.cpp" line="398"/>
         <source>Show Pins names</source>
-        <translation>Mostrar nombres de los contactos</translation>
+        <translation>Mostrar nomes dos pads</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="308"/>
         <location filename="../src/app/maintoolbar.cpp" line="407"/>
         <source>No Connection</source>
-        <translation>Sin contacto</translation>
+        <translation>Sem conecção</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="312"/>
@@ -125,19 +125,19 @@
         <location filename="../src/app/maintoolbar.cpp" line="412"/>
         <location filename="../src/app/maintoolbar.cpp" line="416"/>
         <source>Hide No Connection pins</source>
-        <translation>Ocultar contactos sin conexion</translation>
+        <translation>Ocultar pads sem conecção</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="318"/>
         <location filename="../src/app/maintoolbar.cpp" line="418"/>
         <source>Show No Connection pins</source>
-        <translation>Mostrar contactos sin conexion</translation>
+        <translation>Mostrar pads sem conecção</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="327"/>
         <location filename="../src/app/maintoolbar.cpp" line="427"/>
         <source>Ground</source>
-        <translation>Tierra</translation>
+        <translation>GND</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="329"/>
@@ -145,19 +145,19 @@
         <location filename="../src/app/maintoolbar.cpp" line="429"/>
         <location filename="../src/app/maintoolbar.cpp" line="434"/>
         <source>Hide Ground contacts</source>
-        <translation>Ocultar pines a tierra</translation>
+        <translation>Ocultar contactos GND</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="336"/>
         <location filename="../src/app/maintoolbar.cpp" line="436"/>
         <source>Show Ground contacts</source>
-        <translation>Mostrar pines a tierra</translation>
+        <translation>Mostrar pads GND</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="344"/>
         <location filename="../src/app/maintoolbar.cpp" line="444"/>
         <source>Diode Values</source>
-        <translation>Impedancias</translation>
+        <translation>Valores de referência</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="346"/>
@@ -165,13 +165,13 @@
         <location filename="../src/app/maintoolbar.cpp" line="446"/>
         <location filename="../src/app/maintoolbar.cpp" line="453"/>
         <source>Show Diode Values</source>
-        <translation>Mostrar impedancias</translation>
+        <translation>Mostrar valores de referência</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="351"/>
         <location filename="../src/app/maintoolbar.cpp" line="451"/>
         <source>Hide Diode Values</source>
-        <translation>Ocultar impedancias</translation>
+        <translation>Ocultar valores de referência</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="463"/>
@@ -201,31 +201,31 @@
         <location filename="../src/app/maintoolbar.cpp" line="514"/>
         <location filename="../src/app/maintoolbar.cpp" line="589"/>
         <source>Zoom in</source>
-        <translation>Acercar</translation>
+        <translation>Aumentar zoom</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="524"/>
         <location filename="../src/app/maintoolbar.cpp" line="590"/>
         <source>Zoom out</source>
-        <translation>Alejar</translation>
+        <translation>Diminuir zoom</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="536"/>
         <location filename="../src/app/maintoolbar.cpp" line="591"/>
         <source>Reset rotation</source>
-        <translation>Restablecer rotacíon</translation>
+        <translation>Restabelecer posição da placa</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="547"/>
         <location filename="../src/app/maintoolbar.cpp" line="592"/>
         <source>Rotate right</source>
-        <translation>Rotar hacia la derecha</translation>
+        <translation>Girar para a direita</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="558"/>
         <location filename="../src/app/maintoolbar.cpp" line="593"/>
         <source>Rotate left</source>
-        <translation>Rotar hacia la izquierda</translation>
+        <translation>Girar para a esquerda</translation>
     </message>
 </context>
 <context>
@@ -242,54 +242,54 @@
         <location filename="../src/app/mainwindow.cpp" line="514"/>
         <location filename="../src/app/mainwindow.cpp" line="520"/>
         <source>Phones</source>
-        <translation>Telefonos</translation>
+        <translation>Celulares</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="55"/>
         <location filename="../src/app/mainwindow.cpp" line="515"/>
         <location filename="../src/app/mainwindow.cpp" line="521"/>
         <source>Tablets</source>
-        <translation>Tabletas</translation>
+        <translation>Tablets</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="56"/>
         <location filename="../src/app/mainwindow.cpp" line="516"/>
         <location filename="../src/app/mainwindow.cpp" line="522"/>
         <source>Tools</source>
-        <translation>Herramientas</translation>
+        <translation>Union Repair</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="57"/>
         <source>MonkeyTeam</source>
-        <translation></translation>
+        <translation>Monkey Team</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="91"/>
         <source>Open Board file</source>
-        <translation>Abrir archivo .brd</translation>
+        <translation>Abrir arquivo .brd</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="91"/>
         <source>BRD Files (*.brd)</source>
-        <translation>Archivo BRD (*.brd)</translation>
+        <translation>Arquivo BRD (*.brd)</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="359"/>
         <location filename="../src/app/mainwindow.cpp" line="531"/>
         <source>File</source>
-        <translation>Archivo</translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="361"/>
         <location filename="../src/app/mainwindow.cpp" line="532"/>
         <source>About</source>
-        <translation>Acerca de</translation>
+        <translation>Sobre</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="363"/>
         <location filename="../src/app/mainwindow.cpp" line="533"/>
         <source>Preferences</source>
-        <translation>Configuración</translation>
+        <translation>Preferências</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="374"/>
@@ -319,31 +319,31 @@
         <location filename="../src/app/mainwindow.cpp" line="396"/>
         <location filename="../src/app/mainwindow.cpp" line="538"/>
         <source>Toggle Component Name</source>
-        <translation>Nombre del componente</translation>
+        <translation>Mostrar nome dos componentes</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="399"/>
         <location filename="../src/app/mainwindow.cpp" line="539"/>
         <source>Toggle Pin Name</source>
-        <translation>Nombre del contacto</translation>
+        <translation>Mostrar nome dos pads</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="402"/>
         <location filename="../src/app/mainwindow.cpp" line="540"/>
         <source>Toggle No Connection Pads</source>
-        <translation>Mostrar contactos sin conexion</translation>
+        <translation>Mostrar pads sem conecção</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="405"/>
         <location filename="../src/app/mainwindow.cpp" line="541"/>
         <source>Toggle Ground Pads</source>
-        <translation>Mostrar pines a tierra</translation>
+        <translation>Mostrar pontos GND</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="408"/>
         <location filename="../src/app/mainwindow.cpp" line="542"/>
         <source>Toggle Diode Values</source>
-        <translation>Mostrar impedancias</translation>
+        <translation>Mostrar valores de referência</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="413"/>
@@ -355,31 +355,31 @@
         <location filename="../src/app/mainwindow.cpp" line="416"/>
         <location filename="../src/app/mainwindow.cpp" line="544"/>
         <source>Zoom In</source>
-        <translation>Acercar</translation>
+        <translation>Aumentar zoom</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="419"/>
         <location filename="../src/app/mainwindow.cpp" line="545"/>
         <source>Zoom Out</source>
-        <translation>Alejar</translation>
+        <translation>Diminuir zoom</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="422"/>
         <location filename="../src/app/mainwindow.cpp" line="546"/>
         <source>Reset Rotation</source>
-        <translation>Restablecer rotacíon</translation>
+        <translation>Restablecer rotação</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="425"/>
         <location filename="../src/app/mainwindow.cpp" line="547"/>
         <source>Rotate Right</source>
-        <translation>Rotar hacia la derecha</translation>
+        <translation>Girar para a direita</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="428"/>
         <location filename="../src/app/mainwindow.cpp" line="548"/>
         <source>Rotate Left</source>
-        <translation>Rotar hacia la izquierda</translation>
+        <translation>Girar para a esquerda</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="1145"/>
@@ -403,46 +403,46 @@
         <location filename="../src/app/mainwindow.cpp" line="247"/>
         <location filename="../src/app/mainwindow.cpp" line="525"/>
         <source>Pin name: %1</source>
-        <translation>Pin: %1</translation>
+        <translation>Pad: %1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="210"/>
         <location filename="../src/app/mainwindow.cpp" line="248"/>
         <location filename="../src/app/mainwindow.cpp" line="526"/>
         <source>Net name: %1</source>
-        <translation>Linea: %1</translation>
+        <translation>Linha: %1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="253"/>
         <source>The pin have contact on both sides.</source>
-        <translation>El pin tiene contacto en ambos lados.</translation>
+        <translation>A linha está presente em ambos os lados.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="255"/>
         <source>The pin [%1] have contact on both sides.</source>
-        <translation>El pin [%1] tiene contacto en ambos lados.</translation>
+        <translation>A linha [%1] está presente em ambos lados.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="262"/>
         <source>The pin have contact on side %1 only.</source>
-        <translation>El pin tiene contacto solo en el lado %1.</translation>
+        <translation>A linha está presente apenas no lado %1.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="264"/>
         <source>The pin [%1] have contact on side %2 only.</source>
-        <translation>El pin [%1] tiene contacto solo en el lado %2.</translation>
+        <translation>A linha [%1] está presente apenas no lado %2.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="298"/>
         <source>Update available!</source>
-        <translation>Nueva versión disponible!</translation>
+        <translation>Nova versão disponivél!</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="301"/>
         <source>An update is available!
 Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;website&lt;/a&gt; to download.</source>
-        <translation>Una nueva versión está disponible!
-Por favor visita el &lt;a href=&quot;https://phoneboard.co&quot;&gt;sitio web&lt;/a&gt; de Phoneboard para descargarlo.</translation>
+        <translation>Uma nova versão está disponivel!
+Por favor visite  a pagina da Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt; &lt;/a&gt; para baixa;la</translation>
     </message>
 </context>
 <context>
@@ -451,7 +451,7 @@ Por favor visita el &lt;a href=&quot;https://phoneboard.co&quot;&gt;sitio web&lt
         <location filename="../src/app/overlayprogress.cpp" line="44"/>
         <source>Loading %1...</source>
         <extracomment>This text appears upside the loading progress bar.</extracomment>
-        <translation>Cargando %1...</translation>
+        <translation>Carregando %1...</translation>
     </message>
 </context>
 <context>
@@ -460,24 +460,19 @@ Por favor visita el &lt;a href=&quot;https://phoneboard.co&quot;&gt;sitio web&lt
         <location filename="../src/app/overlaysettings.cpp" line="264"/>
         <location filename="../src/app/overlaysettings.cpp" line="817"/>
         <source>Welcome to Phoneboard!</source>
-        <translation>Bienvenido a Phoneboard!</translation>
+        <translation>Bem-vindo a Phoneboard!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="278"/>
         <location filename="../src/app/overlaysettings.cpp" line="818"/>
         <source>Remember this software is &lt;b&gt;free&lt;/b&gt;. To report any issues go &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt; or contact me at &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;If you find the app useful, consider supporting me on &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; or donate on &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; or &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;.&lt;br&gt;Thank you!</source>
-        <translation>Recuerda que este programa es totalmente &lt;b&gt;gratuito&lt;/b&gt;. Reporta algun problema &lt;a href=&quot;%1&quot;&gt;aquí&lt;/a&gt; o contactame en &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;Si te parece util, por favor considera ayudarme en &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; o donando en &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; o &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;.&lt;br&gt;Muchas gracias!</translation>
+        <translation>Lembre-se, este programa é &lt;b&gt;gratuito&lt;/b&gt;, para reportar algum problema acesse &lt;a href=&quot;%1&quot;&gt;aquí&lt;/a&gt; ou fale comigo no &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;Se a ferramenta for de ajuda, por favor colabore com o projeto no &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; ou doando por meio do &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; ou &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;.&lt;br&gt;Obrigado!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="302"/>
         <location filename="../src/app/overlaysettings.cpp" line="830"/>
         <source>Translators:</source>
-        <translation>Traductores:</translation>
-    </message>
-    <message>
-        <location filename="../src/app/overlaysettings.cpp" line="316"/>
-        <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</source>
-        <translation></translation>
+        <translation>Tradutores:</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="362"/>
@@ -489,79 +484,79 @@ Por favor visita el &lt;a href=&quot;https://phoneboard.co&quot;&gt;sitio web&lt
         <location filename="../src/app/overlaysettings.cpp" line="395"/>
         <location filename="../src/app/overlaysettings.cpp" line="812"/>
         <source>Split Board</source>
-        <translation>Separar lados</translation>
+        <translation>Orientação da PCB</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="397"/>
         <location filename="../src/app/overlaysettings.cpp" line="814"/>
         <source>Horizontal</source>
-        <translation>Horizontalmente</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="398"/>
         <location filename="../src/app/overlaysettings.cpp" line="815"/>
         <source>Vertical</source>
-        <translation>Verticalmente</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="414"/>
         <location filename="../src/app/overlaysettings.cpp" line="831"/>
         <source>No Connection Color</source>
-        <translation>Color de contacto sin conexión</translation>
+        <translation>Cor para terminais NC</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="587"/>
         <location filename="../src/app/overlaysettings.cpp" line="837"/>
         <source>Dark Mode</source>
-        <translation>Modo oscuro</translation>
+        <translation>Dark mode</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="619"/>
         <location filename="../src/app/overlaysettings.cpp" line="845"/>
         <source>Open Board Button</source>
-        <translation>Boton para abrir BRD</translation>
+        <translation>Botão &quot;Abrir BRD&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="622"/>
         <location filename="../src/app/overlaysettings.cpp" line="847"/>
         <source>Show / Hide The Open BRD button.</source>
-        <translation>Mostrar / Ocultar Boton para abrir archivos .BRD.</translation>
+        <translation>Mostrar / Ocultar botão &quot;Abrir arquivos .BRD&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="653"/>
         <source>Open from folder</source>
-        <translation>Abrir desde carpeta</translation>
+        <translation>Selecionar pasta</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="671"/>
         <source>Select the folder</source>
-        <translation>Selecciona una carpeta</translation>
+        <translation>Escolher pasta</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="674"/>
         <location filename="../src/app/overlaysettings.cpp" line="731"/>
         <source>Browse</source>
-        <translation>Buscar</translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="678"/>
         <source>Open Pdf Folder</source>
-        <translation>Abrir carpeta de esquemáticos</translation>
+        <translation>Selecionar pasta de esquemas</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="705"/>
         <source>Open from file</source>
-        <translation>Abrir archivo</translation>
-    </message>
-    <message>
-        <location filename="../src/app/overlaysettings.cpp" line="735"/>
-        <source>PDF File (*.pdf)</source>
-        <translation>Archivo PDF (*.pdf)</translation>
+        <translation>Selecionar esquemas</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="735"/>
         <source>Open Pdf File</source>
-        <translation>Abrir archivo PDF</translation>
+        <translation>Abrir arquivo PDF</translation>
+    </message>
+    <message>
+        <location filename="../src/app/overlaysettings.cpp" line="735"/>
+        <source>PDF File (*.pdf)</source>
+        <translation>Arquivo PDF</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="416"/>
@@ -571,7 +566,7 @@ Por favor visita el &lt;a href=&quot;https://phoneboard.co&quot;&gt;sitio web&lt
         <location filename="../src/app/overlaysettings.cpp" line="834"/>
         <location filename="../src/app/overlaysettings.cpp" line="836"/>
         <source>Reset</source>
-        <translation>Restablecer</translation>
+        <translation>Predeterminado</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="189"/>
@@ -583,7 +578,7 @@ Por favor visita el &lt;a href=&quot;https://phoneboard.co&quot;&gt;sitio web&lt
         <location filename="../src/app/overlaysettings.cpp" line="192"/>
         <location filename="../src/app/overlaysettings.cpp" line="866"/>
         <source>Changelog</source>
-        <translation>Cambios en la versión</translation>
+        <translation>Novidades da versão</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="190"/>
@@ -591,37 +586,42 @@ Por favor visita el &lt;a href=&quot;https://phoneboard.co&quot;&gt;sitio web&lt
         <location filename="../src/app/overlaysettings.cpp" line="810"/>
         <location filename="../src/app/overlaysettings.cpp" line="860"/>
         <source>Settings</source>
-        <translation>Configuración</translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="191"/>
         <location filename="../src/app/overlaysettings.cpp" line="863"/>
         <source>Schematics</source>
-        <translation>Esquemáticos</translation>
+        <translation>Esquemas</translation>
+    </message>
+    <message>
+        <location filename="../src/app/overlaysettings.cpp" line="316"/>
+        <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="472"/>
         <location filename="../src/app/overlaysettings.cpp" line="833"/>
         <source>Ground Color</source>
-        <translation>Color de pines a tierra</translation>
+        <translation>Cor para terminais GND</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="529"/>
         <location filename="../src/app/overlaysettings.cpp" line="835"/>
         <source>Active Color</source>
-        <translation>Color del pin activo</translation>
+        <translation>Cor para terminais ativos</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="600"/>
         <location filename="../src/app/overlaysettings.cpp" line="838"/>
         <source>Antialiasing</source>
-        <translation></translation>
+        <translation>Antialiasing</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="603"/>
         <location filename="../src/app/overlaysettings.cpp" line="840"/>
         <source>Antialiasing produces a better drawing quality</source>
-        <translation>El antialiasing produce una mejor calidad de imagen</translation>
+        <translation>O Antialiasing proporciona uma melhor qualidade de imagen</translation>
     </message>
 </context>
 </TS>
