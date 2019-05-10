@@ -556,7 +556,7 @@ Por favor visite  a pagina da Phoneboard &lt;a href=&quot;https://phoneboard.co&
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="735"/>
         <source>PDF File (*.pdf)</source>
-        <translation>Arquivo PDF</translation>
+        <translation>Arquivo PDF (*.pdf)</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="416"/>
