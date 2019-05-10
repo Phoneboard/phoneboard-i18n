@@ -58,7 +58,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="245"/>
         <location filename="../src/app/maintoolbar.cpp" line="252"/>
-        <location filename="../src/app/maintoolbar.cpp" line="594"/>
+        <location filename="../src/app/maintoolbar.cpp" line="600"/>
         <source>Show Schematic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -76,6 +76,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="269"/>
         <location filename="../src/app/maintoolbar.cpp" line="368"/>
+        <location filename="../src/app/maintoolbar.cpp" line="585"/>
         <source>Component name</source>
         <translation>ឈ្មោះធាតុផ្សំ</translation>
     </message>
@@ -96,6 +97,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="289"/>
         <location filename="../src/app/maintoolbar.cpp" line="388"/>
+        <location filename="../src/app/maintoolbar.cpp" line="586"/>
         <source>Pin name</source>
         <translation>ដាក់ឈ្មោះជើង</translation>
     </message>
@@ -116,6 +118,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="308"/>
         <location filename="../src/app/maintoolbar.cpp" line="407"/>
+        <location filename="../src/app/maintoolbar.cpp" line="587"/>
         <source>No Connection</source>
         <translation type="unfinished"></translation>
     </message>
@@ -136,6 +139,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="327"/>
         <location filename="../src/app/maintoolbar.cpp" line="427"/>
+        <location filename="../src/app/maintoolbar.cpp" line="588"/>
         <source>Ground</source>
         <translation>ម៉ាស់</translation>
     </message>
@@ -156,6 +160,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="344"/>
         <location filename="../src/app/maintoolbar.cpp" line="444"/>
+        <location filename="../src/app/maintoolbar.cpp" line="589"/>
         <source>Diode Values</source>
         <translation type="unfinished"></translation>
     </message>
@@ -175,55 +180,55 @@
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="463"/>
-        <location filename="../src/app/maintoolbar.cpp" line="585"/>
+        <location filename="../src/app/maintoolbar.cpp" line="591"/>
         <source>Show / Hide A</source>
         <translation>បង្ហាញ / លាក់ A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="476"/>
-        <location filename="../src/app/maintoolbar.cpp" line="586"/>
+        <location filename="../src/app/maintoolbar.cpp" line="592"/>
         <source>Show / Hide B</source>
         <translation>បង្ហាញ / លាក់ B</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="490"/>
-        <location filename="../src/app/maintoolbar.cpp" line="587"/>
+        <location filename="../src/app/maintoolbar.cpp" line="593"/>
         <source>Show both sides</source>
         <translation>បង្ហាញទាំងពីរ A នឹង B</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="502"/>
-        <location filename="../src/app/maintoolbar.cpp" line="588"/>
+        <location filename="../src/app/maintoolbar.cpp" line="594"/>
         <source>Reset zoom</source>
         <translation>កំណត់ការពង្រីកឡើងវិញ</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="514"/>
-        <location filename="../src/app/maintoolbar.cpp" line="589"/>
+        <location filename="../src/app/maintoolbar.cpp" line="595"/>
         <source>Zoom in</source>
         <translation>ពង្រីក</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="524"/>
-        <location filename="../src/app/maintoolbar.cpp" line="590"/>
+        <location filename="../src/app/maintoolbar.cpp" line="596"/>
         <source>Zoom out</source>
         <translation>បង្រួម</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="536"/>
-        <location filename="../src/app/maintoolbar.cpp" line="591"/>
+        <location filename="../src/app/maintoolbar.cpp" line="597"/>
         <source>Reset rotation</source>
         <translation>កំណត់ការបង្វិលឡើងវិញ</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="547"/>
-        <location filename="../src/app/maintoolbar.cpp" line="592"/>
+        <location filename="../src/app/maintoolbar.cpp" line="598"/>
         <source>Rotate right</source>
         <translation>បង្វិលទៅស្តាំ</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="558"/>
-        <location filename="../src/app/maintoolbar.cpp" line="593"/>
+        <location filename="../src/app/maintoolbar.cpp" line="599"/>
         <source>Rotate left</source>
         <translation>បង្វិលទៅឆ្វេង</translation>
     </message>
@@ -458,168 +463,168 @@ Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;webs
     <name>OverlaySettings</name>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="264"/>
-        <location filename="../src/app/overlaysettings.cpp" line="817"/>
+        <location filename="../src/app/overlaysettings.cpp" line="818"/>
         <source>Welcome to Phoneboard!</source>
         <translation>ស្វាគមន៍មកកាន់ Phoneboard!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="278"/>
-        <location filename="../src/app/overlaysettings.cpp" line="818"/>
+        <location filename="../src/app/overlaysettings.cpp" line="819"/>
         <source>Remember this software is &lt;b&gt;free&lt;/b&gt;. To report any issues go &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt; or contact me at &lt;a href=&quot;%2&quot;&gt;Facebook&lt;/a&gt;.&lt;br&gt;If you find the app useful, consider supporting me on &lt;a href=&quot;%3&quot;&gt;Patreon&lt;/a&gt; or donate on &lt;a href=&quot;%4&quot;&gt;Paypal&lt;/a&gt; or &lt;a href=&quot;%5&quot;&gt;Bitcoin&lt;/a&gt;.&lt;br&gt;Thank you!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="302"/>
-        <location filename="../src/app/overlaysettings.cpp" line="830"/>
+        <location filename="../src/app/overlaysettings.cpp" line="831"/>
         <source>Translators:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="316"/>
-        <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/overlaysettings.cpp" line="362"/>
-        <location filename="../src/app/overlaysettings.cpp" line="813"/>
+        <location filename="../src/app/overlaysettings.cpp" line="363"/>
+        <location filename="../src/app/overlaysettings.cpp" line="814"/>
         <source>Language</source>
         <translation>ភាសា</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="395"/>
-        <location filename="../src/app/overlaysettings.cpp" line="812"/>
+        <location filename="../src/app/overlaysettings.cpp" line="396"/>
+        <location filename="../src/app/overlaysettings.cpp" line="813"/>
         <source>Split Board</source>
         <translation>បំបែកផ្ទាំងបត</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="397"/>
-        <location filename="../src/app/overlaysettings.cpp" line="814"/>
+        <location filename="../src/app/overlaysettings.cpp" line="398"/>
+        <location filename="../src/app/overlaysettings.cpp" line="815"/>
         <source>Horizontal</source>
         <translation>ផ្ដេក</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="398"/>
-        <location filename="../src/app/overlaysettings.cpp" line="815"/>
+        <location filename="../src/app/overlaysettings.cpp" line="399"/>
+        <location filename="../src/app/overlaysettings.cpp" line="816"/>
         <source>Vertical</source>
         <translation>បញ្ឈរ</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="414"/>
-        <location filename="../src/app/overlaysettings.cpp" line="831"/>
+        <location filename="../src/app/overlaysettings.cpp" line="415"/>
+        <location filename="../src/app/overlaysettings.cpp" line="832"/>
         <source>No Connection Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="587"/>
-        <location filename="../src/app/overlaysettings.cpp" line="837"/>
+        <location filename="../src/app/overlaysettings.cpp" line="588"/>
+        <location filename="../src/app/overlaysettings.cpp" line="838"/>
         <source>Dark Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="619"/>
-        <location filename="../src/app/overlaysettings.cpp" line="845"/>
+        <location filename="../src/app/overlaysettings.cpp" line="620"/>
+        <location filename="../src/app/overlaysettings.cpp" line="846"/>
         <source>Open Board Button</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="622"/>
-        <location filename="../src/app/overlaysettings.cpp" line="847"/>
+        <location filename="../src/app/overlaysettings.cpp" line="623"/>
+        <location filename="../src/app/overlaysettings.cpp" line="848"/>
         <source>Show / Hide The Open BRD button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="653"/>
+        <location filename="../src/app/overlaysettings.cpp" line="654"/>
         <source>Open from folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="671"/>
+        <location filename="../src/app/overlaysettings.cpp" line="672"/>
         <source>Select the folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="674"/>
-        <location filename="../src/app/overlaysettings.cpp" line="731"/>
+        <location filename="../src/app/overlaysettings.cpp" line="675"/>
+        <location filename="../src/app/overlaysettings.cpp" line="732"/>
         <source>Browse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="678"/>
+        <location filename="../src/app/overlaysettings.cpp" line="679"/>
         <source>Open Pdf Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="705"/>
+        <location filename="../src/app/overlaysettings.cpp" line="706"/>
         <source>Open from file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="735"/>
+        <location filename="../src/app/overlaysettings.cpp" line="736"/>
         <source>PDF File (*.pdf)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="735"/>
+        <location filename="../src/app/overlaysettings.cpp" line="736"/>
         <source>Open Pdf File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="416"/>
-        <location filename="../src/app/overlaysettings.cpp" line="474"/>
-        <location filename="../src/app/overlaysettings.cpp" line="531"/>
-        <location filename="../src/app/overlaysettings.cpp" line="832"/>
-        <location filename="../src/app/overlaysettings.cpp" line="834"/>
-        <location filename="../src/app/overlaysettings.cpp" line="836"/>
+        <location filename="../src/app/overlaysettings.cpp" line="417"/>
+        <location filename="../src/app/overlaysettings.cpp" line="475"/>
+        <location filename="../src/app/overlaysettings.cpp" line="532"/>
+        <location filename="../src/app/overlaysettings.cpp" line="833"/>
+        <location filename="../src/app/overlaysettings.cpp" line="835"/>
+        <location filename="../src/app/overlaysettings.cpp" line="837"/>
         <source>Reset</source>
         <translation>កំណត់ឡើងវិញ</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="189"/>
-        <location filename="../src/app/overlaysettings.cpp" line="857"/>
+        <location filename="../src/app/overlaysettings.cpp" line="858"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="192"/>
-        <location filename="../src/app/overlaysettings.cpp" line="866"/>
+        <location filename="../src/app/overlaysettings.cpp" line="867"/>
         <source>Changelog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="190"/>
-        <location filename="../src/app/overlaysettings.cpp" line="353"/>
-        <location filename="../src/app/overlaysettings.cpp" line="810"/>
-        <location filename="../src/app/overlaysettings.cpp" line="860"/>
+        <location filename="../src/app/overlaysettings.cpp" line="354"/>
+        <location filename="../src/app/overlaysettings.cpp" line="811"/>
+        <location filename="../src/app/overlaysettings.cpp" line="861"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="191"/>
-        <location filename="../src/app/overlaysettings.cpp" line="863"/>
+        <location filename="../src/app/overlaysettings.cpp" line="864"/>
         <source>Schematics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="472"/>
-        <location filename="../src/app/overlaysettings.cpp" line="833"/>
+        <location filename="../src/app/overlaysettings.cpp" line="316"/>
+        <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Portuguese Brazil: Comunidade Microsoldagem Brasil.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/overlaysettings.cpp" line="473"/>
+        <location filename="../src/app/overlaysettings.cpp" line="834"/>
         <source>Ground Color</source>
         <translation>ពណ៌ម៉ាស់</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="529"/>
-        <location filename="../src/app/overlaysettings.cpp" line="835"/>
+        <location filename="../src/app/overlaysettings.cpp" line="530"/>
+        <location filename="../src/app/overlaysettings.cpp" line="836"/>
         <source>Active Color</source>
         <translation>ដំណើរការពណ៌</translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="600"/>
-        <location filename="../src/app/overlaysettings.cpp" line="838"/>
+        <location filename="../src/app/overlaysettings.cpp" line="601"/>
+        <location filename="../src/app/overlaysettings.cpp" line="839"/>
         <source>Antialiasing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/overlaysettings.cpp" line="603"/>
-        <location filename="../src/app/overlaysettings.cpp" line="840"/>
+        <location filename="../src/app/overlaysettings.cpp" line="604"/>
+        <location filename="../src/app/overlaysettings.cpp" line="841"/>
         <source>Antialiasing produces a better drawing quality</source>
         <translation type="unfinished"></translation>
     </message>
