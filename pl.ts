@@ -34,17 +34,17 @@
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="74"/>
         <source>How we search for schematics</source>
-        <translation type="unfinished"></translation>
+        <translation>Jak szukać schematów</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="76"/>
         <source>Phoneboard will try to load the schematics from the folder with the predefined name. If the file is not found in the folder it will try to load it from the single file configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phoneboard spróbuje załadować schematy z folderu z wstępnie zdefiniowaną nazwą. Jeżeli plik nie zostanie znaleziony w folderze, spróbuje załadować go z pojedynczego pliku konfiguracyjnego.</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="80"/>
         <source>Predefined names</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefiniowane nazwy</translation>
     </message>
 </context>
 <context>
@@ -60,18 +60,18 @@
         <location filename="../src/app/maintoolbar.cpp" line="252"/>
         <location filename="../src/app/maintoolbar.cpp" line="600"/>
         <source>Show Schematic</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż schematy</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="250"/>
         <source>Hide Schematic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj schematy</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="261"/>
         <location filename="../src/app/maintoolbar.cpp" line="584"/>
         <source>View</source>
-        <translation type="unfinished">Widok</translation>
+        <translation>Widok</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="269"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../src/app/mainwindow.cpp" line="57"/>
         <source>MonkeyTeam</source>
-        <translation type="unfinished"></translation>
+        <translation>MonkeyTeam</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="91"/>
@@ -530,38 +530,38 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="654"/>
         <source>Open from folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz z folderu</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="672"/>
         <source>Select the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz folder</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="675"/>
         <location filename="../src/app/overlaysettings.cpp" line="732"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="679"/>
         <source>Open Pdf Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder PDF</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="706"/>
         <source>Open from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz z pliku</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="736"/>
         <source>PDF File (*.pdf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik PDF (*.pdf)</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="736"/>
         <source>Open Pdf File</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz plik PDF</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="417"/>
@@ -597,12 +597,12 @@ Wejdź na Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;stronę&lt;
         <location filename="../src/app/overlaysettings.cpp" line="191"/>
         <location filename="../src/app/overlaysettings.cpp" line="864"/>
         <source>Schematics</source>
-        <translation type="unfinished"></translation>
+        <translation>Schematy</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="316"/>
         <source>Arabic by: Haythem hamdi.&lt;br&gt;Cambodian by: IC Fix Sothy.&lt;br&gt;Croatian by: Saša Valić.&lt;br&gt;Danish by: Olgierd Nowakowski.&lt;br&gt;Finnish by: Ruuben Vuolasranta.&lt;br&gt;French by: Occaz&apos;out.&lt;br&gt;German by: David Schmidt.&lt;br&gt;Hungarian by: Dani Bá.&lt;br&gt;Italian by: Nicola Ripiccini.&lt;br&gt;Lithuanian by: VeryFastSnail.&lt;br&gt;Norwegian Bokmål by: Martin Refseth.&lt;br&gt;Polish by: Jakub Werwiński.&lt;br&gt;Portuguese Brazil: Comunidade Microsoldagem Brasil.&lt;br&gt;Russian by: Олег Агекян.&lt;br&gt;Slovenian by: Jernej Klarič.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="473"/>
