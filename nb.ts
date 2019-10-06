@@ -1,35 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.1" language="nb_NO" sourcelanguage="nb_NO">
 <context>
     <name>ComponentItemModel</name>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="86"/>
         <source>Net name</source>
-        <translatorcomment>Haven&apos;t found a good german version of this yet, it is mostly used as is</translatorcomment>
-        <translation>Net Name</translation>
+        <translation>Nett navn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="86"/>
         <source>Component</source>
-        <translatorcomment>Could be &quot;Komponente&quot; too, would enlarge further translations though</translatorcomment>
-        <translation>Bauteil</translation>
+        <translation>Komponent</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="91"/>
         <source>Both</source>
-        <translatorcomment>This depends on the usage of the word! Could be &quot;beides, beide, beiden&quot; etc.</translatorcomment>
-        <translation>Beide</translation>
+        <translation>Begge</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="93"/>
         <source>Side A</source>
-        <translation>Seite A</translation>
+        <translation>Side A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="95"/>
         <source>Side B</source>
-        <translation>Seite B</translation>
+        <translation>Side B</translation>
     </message>
 </context>
 <context>
@@ -56,7 +53,7 @@
         <location filename="../src/app/maintoolbar.cpp" line="198"/>
         <location filename="../src/app/maintoolbar.cpp" line="582"/>
         <source>Search...</source>
-        <translation>Suche...</translation>
+        <translation>Søk...</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="245"/>
@@ -81,7 +78,7 @@
         <location filename="../src/app/maintoolbar.cpp" line="368"/>
         <location filename="../src/app/maintoolbar.cpp" line="585"/>
         <source>Component name</source>
-        <translation>Bauteilbezeichnung</translation>
+        <translation>Komponent navn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="272"/>
@@ -89,20 +86,20 @@
         <location filename="../src/app/maintoolbar.cpp" line="371"/>
         <location filename="../src/app/maintoolbar.cpp" line="376"/>
         <source>Hide Components names</source>
-        <translation>Verstecke Bauteilbezeichnungen</translation>
+        <translation>Gjem Komponent navn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="279"/>
         <location filename="../src/app/maintoolbar.cpp" line="378"/>
         <source>Show Components names</source>
-        <translation>Zeige Bauteilbezeichnungen</translation>
+        <translation>Vis Komponent navn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="289"/>
         <location filename="../src/app/maintoolbar.cpp" line="388"/>
         <location filename="../src/app/maintoolbar.cpp" line="586"/>
         <source>Pin name</source>
-        <translation>Pinbezeichnung</translation>
+        <translation>Pinne navn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="292"/>
@@ -110,20 +107,20 @@
         <location filename="../src/app/maintoolbar.cpp" line="391"/>
         <location filename="../src/app/maintoolbar.cpp" line="396"/>
         <source>Hide Pins names</source>
-        <translation>Verstecke Pinbezeichnungen</translation>
+        <translation>Gjem pinne navn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="299"/>
         <location filename="../src/app/maintoolbar.cpp" line="398"/>
         <source>Show Pins names</source>
-        <translation>Zeige Pinbezeichnungen</translation>
+        <translation>Vis Pinne navn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="308"/>
         <location filename="../src/app/maintoolbar.cpp" line="407"/>
         <location filename="../src/app/maintoolbar.cpp" line="587"/>
         <source>No Connection</source>
-        <translation>Ohne Verbindung</translation>
+        <translation>Ingen tilkobling</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="312"/>
@@ -131,21 +128,20 @@
         <location filename="../src/app/maintoolbar.cpp" line="412"/>
         <location filename="../src/app/maintoolbar.cpp" line="416"/>
         <source>Hide No Connection pins</source>
-        <translation>Verstecke Pins ohne Verbindung</translation>
+        <translation>Gjem pinner uten kontakt</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="318"/>
         <location filename="../src/app/maintoolbar.cpp" line="418"/>
         <source>Show No Connection pins</source>
-        <translation>Zeige Pins ohne Verbindung</translation>
+        <translation>Vis pinner uten kontakt</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="327"/>
         <location filename="../src/app/maintoolbar.cpp" line="427"/>
         <location filename="../src/app/maintoolbar.cpp" line="588"/>
         <source>Ground</source>
-        <translatorcomment>Could be Masseanschluss too</translatorcomment>
-        <translation>Masse</translation>
+        <translation>Jord</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="329"/>
@@ -153,20 +149,20 @@
         <location filename="../src/app/maintoolbar.cpp" line="429"/>
         <location filename="../src/app/maintoolbar.cpp" line="434"/>
         <source>Hide Ground contacts</source>
-        <translation>Verstecke Masseverbindungen</translation>
+        <translation>Gjem Jord kontakter</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="336"/>
         <location filename="../src/app/maintoolbar.cpp" line="436"/>
         <source>Show Ground contacts</source>
-        <translation>Zeige Masseverbindungen</translation>
+        <translation>Vis Jord kontakter</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="344"/>
         <location filename="../src/app/maintoolbar.cpp" line="444"/>
         <location filename="../src/app/maintoolbar.cpp" line="589"/>
         <source>Diode Values</source>
-        <translation>Diodenwerte</translation>
+        <translation>Diode Verdier</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="346"/>
@@ -174,68 +170,67 @@
         <location filename="../src/app/maintoolbar.cpp" line="446"/>
         <location filename="../src/app/maintoolbar.cpp" line="453"/>
         <source>Show Diode Values</source>
-        <translation>Zeige Diodenwerte</translation>
+        <translation>Vis Diode Verdier</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="351"/>
         <location filename="../src/app/maintoolbar.cpp" line="451"/>
         <source>Hide Diode Values</source>
-        <translation>Verstecke Diodenwerte</translation>
+        <translation>Gjem Diode Verdier</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="463"/>
         <location filename="../src/app/maintoolbar.cpp" line="591"/>
         <source>Show / Hide A</source>
-        <translatorcomment>German Norm would be without spaces near the / but that doesn&apos;t look good</translatorcomment>
-        <translation>Zeige / Verstecke A</translation>
+        <translation>Vis / Gjem A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="476"/>
         <location filename="../src/app/maintoolbar.cpp" line="592"/>
         <source>Show / Hide B</source>
-        <translation>Zeige / Verstecke B</translation>
+        <translation>Vis / Gjem B</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="490"/>
         <location filename="../src/app/maintoolbar.cpp" line="593"/>
         <source>Show both sides</source>
-        <translation>Zeige beide Seiten</translation>
+        <translation>Vis begge sidene</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="502"/>
         <location filename="../src/app/maintoolbar.cpp" line="594"/>
         <source>Reset zoom</source>
-        <translation>Zoomfaktor zurücksetzen</translation>
+        <translation>Tilbakestill zoom</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="514"/>
         <location filename="../src/app/maintoolbar.cpp" line="595"/>
         <source>Zoom in</source>
-        <translation>Vergrößern</translation>
+        <translation>Zoom inn</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="524"/>
         <location filename="../src/app/maintoolbar.cpp" line="596"/>
         <source>Zoom out</source>
-        <translation>Verkleinern</translation>
+        <translation>Zoom ut</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="536"/>
         <location filename="../src/app/maintoolbar.cpp" line="597"/>
         <source>Reset rotation</source>
-        <translation>Drehung zurücksetzen</translation>
+        <translation>Tilbakestill rotasjon</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="547"/>
         <location filename="../src/app/maintoolbar.cpp" line="598"/>
         <source>Rotate right</source>
-        <translation>Nach rechts drehen</translation>
+        <translation>Roter til høyre</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="558"/>
         <location filename="../src/app/maintoolbar.cpp" line="599"/>
         <source>Rotate left</source>
-        <translation>Nach links drehen</translation>
+        <translation>Roter til venstre</translation>
     </message>
 </context>
 <context>
@@ -245,30 +240,28 @@
         <location filename="../src/app/mainwindow.cpp" line="74"/>
         <location filename="../src/app/mainwindow.cpp" line="513"/>
         <source>Open BRD</source>
-        <translation>BRD öffnen</translation>
+        <translation>Åpne BRD</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="54"/>
         <location filename="../src/app/mainwindow.cpp" line="514"/>
         <location filename="../src/app/mainwindow.cpp" line="520"/>
         <source>Phones</source>
-        <translatorcomment>Could be &quot;Handy&quot; for colloquial language or &quot;Smartphones&quot; since this word is used in german too</translatorcomment>
-        <translation>Telefone</translation>
+        <translation>Telefoner</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="55"/>
         <location filename="../src/app/mainwindow.cpp" line="515"/>
         <location filename="../src/app/mainwindow.cpp" line="521"/>
         <source>Tablets</source>
-        <translatorcomment>Same name in German</translatorcomment>
-        <translation>Tablets</translation>
+        <translation>Nettbrett</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="56"/>
         <location filename="../src/app/mainwindow.cpp" line="516"/>
         <location filename="../src/app/mainwindow.cpp" line="522"/>
         <source>Tools</source>
-        <translation>Werkzeuge</translation>
+        <translation>Verktøy</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="57"/>
@@ -278,13 +271,12 @@
     <message>
         <location filename="../src/app/mainwindow.cpp" line="91"/>
         <source>Open Board file</source>
-        <translatorcomment>unsure where this is used</translatorcomment>
-        <translation>Board Datei öffnen</translation>
+        <translation>Åpne Kort fil</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="91"/>
         <source>BRD Files (*.brd)</source>
-        <translation>BRD Dateien (*.brd)</translation>
+        <translation>BRD Filer (*.brd)</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="359"/>
@@ -397,71 +389,64 @@
     <message>
         <location filename="../src/app/mainwindow.cpp" line="1145"/>
         <source>Side A</source>
-        <translatorcomment>rendundant?</translatorcomment>
-        <translation>Seite A</translation>
+        <translation>Side A</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="1147"/>
         <source>Side B</source>
-        <translatorcomment>redundant?</translatorcomment>
-        <translation>Seite B</translation>
+        <translation>Side B</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="202"/>
         <location filename="../src/app/mainwindow.cpp" line="242"/>
         <location filename="../src/app/mainwindow.cpp" line="524"/>
         <source>Cursor: %1</source>
-        <translatorcomment>Cursor would actually be the same name, could be &quot;Mauszeiger&quot;</translatorcomment>
-        <translation>Zeiger: %1</translation>
+        <translation>Markør:%1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="206"/>
         <location filename="../src/app/mainwindow.cpp" line="247"/>
         <location filename="../src/app/mainwindow.cpp" line="525"/>
         <source>Pin name: %1</source>
-        <translatorcomment>redundant?</translatorcomment>
-        <translation>Pinbezeichnung: %1</translation>
+        <translation>Pinne navn %1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="210"/>
         <location filename="../src/app/mainwindow.cpp" line="248"/>
         <location filename="../src/app/mainwindow.cpp" line="526"/>
         <source>Net name: %1</source>
-        <translatorcomment>redundant? See comment on ComponentItemModel</translatorcomment>
-        <translation>Netzname: %1</translation>
+        <translation>Nett navn %1</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="253"/>
         <source>The pin have contact on both sides.</source>
-        <translation>Dieser Pin besitzt Kontakte auf beiden Seiten.</translation>
+        <translation>Pinnen har kontakt på begge sidene.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="255"/>
         <source>The pin [%1] have contact on both sides.</source>
-        <translatorcomment>wrong english ? shouldn&apos;t it be has contacts?</translatorcomment>
-        <translation>Der Pin [%1] besitzt Kontakte auf beiden Seiten.</translation>
+        <translation>Pinne [%1] har kontakt på begge sidene.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="262"/>
         <source>The pin have contact on side %1 only.</source>
-        <translation>Dieser Pin besitzt nur einen Kontakt auf Seite %1.</translation>
+        <translation>Pinnen har bare kontakt på side %1.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="264"/>
         <source>The pin [%1] have contact on side %2 only.</source>
-        <translation>Der Pin[%1] besitzt nur einen Kontakt auf Seite %2.</translation>
+        <translation>Pinne [%1] har bare kontakt på side %2.</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="298"/>
         <source>Update available!</source>
-        <translation>Aktualisierung verfügbar!</translation>
+        <translation>Oppdatering tiljengelig!</translation>
     </message>
     <message>
         <location filename="../src/app/mainwindow.cpp" line="301"/>
         <source>An update is available!
 Please go to the Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;website&lt;/a&gt; to download.</source>
-        <translation>Eine Aktualisierung ist verfügbar
-Bitte besuche die Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;Webseite&lt;/a&gt; zum herunterladen.</translation>
+        <translation>En oppdatering er tiljengelig! Dra til Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;nettsiden&lt;/a&gt; for og laste ned.</translation>
     </message>
 </context>
 <context>
@@ -470,7 +455,7 @@ Bitte besuche die Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;Web
         <location filename="../src/app/overlayprogress.cpp" line="44"/>
         <source>Loading %1...</source>
         <extracomment>This text appears upside the loading progress bar.</extracomment>
-        <translation>Laden %1...</translation>
+        <translation>Laster %1...</translation>
     </message>
 </context>
 <context>
@@ -479,7 +464,7 @@ Bitte besuche die Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;Web
         <location filename="../src/app/overlaysettings.cpp" line="264"/>
         <location filename="../src/app/overlaysettings.cpp" line="818"/>
         <source>Welcome to Phoneboard!</source>
-        <translation>Willkommen zu Phoneboard!</translation>
+        <translation>Velkommen til Phoneboard!</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="278"/>
@@ -491,43 +476,43 @@ Bitte besuche die Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;Web
         <location filename="../src/app/overlaysettings.cpp" line="302"/>
         <location filename="../src/app/overlaysettings.cpp" line="831"/>
         <source>Translators:</source>
-        <translation>Übersetzer:</translation>
+        <translation>Oversettere:</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="363"/>
         <location filename="../src/app/overlaysettings.cpp" line="814"/>
         <source>Language</source>
-        <translation>Sprache</translation>
+        <translation>Språk</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="396"/>
         <location filename="../src/app/overlaysettings.cpp" line="813"/>
         <source>Split Board</source>
-        <translation>Board aufteilen</translation>
+        <translation>Del Kort</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="398"/>
         <location filename="../src/app/overlaysettings.cpp" line="815"/>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Horisontalt</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="399"/>
         <location filename="../src/app/overlaysettings.cpp" line="816"/>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation>Vertikalt</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="415"/>
         <location filename="../src/app/overlaysettings.cpp" line="832"/>
         <source>No Connection Color</source>
-        <translation>Farbe für Kontakte ohne Verbindung</translation>
+        <translation>Ingen Tilkoblings farge</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="588"/>
         <location filename="../src/app/overlaysettings.cpp" line="838"/>
         <source>Dark Mode</source>
-        <translation>Dunkler Modus</translation>
+        <translation>Mørke Modus</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="620"/>
@@ -585,7 +570,7 @@ Bitte besuche die Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;Web
         <location filename="../src/app/overlaysettings.cpp" line="835"/>
         <location filename="../src/app/overlaysettings.cpp" line="837"/>
         <source>Reset</source>
-        <translation>Zurücksetzen</translation>
+        <translation>Tilbakestill</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="189"/>
@@ -622,13 +607,13 @@ Bitte besuche die Phoneboard &lt;a href=&quot;https://phoneboard.co&quot;&gt;Web
         <location filename="../src/app/overlaysettings.cpp" line="473"/>
         <location filename="../src/app/overlaysettings.cpp" line="834"/>
         <source>Ground Color</source>
-        <translation>Farbe für Masseverbindungen</translation>
+        <translation>Jord Farge</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="530"/>
         <location filename="../src/app/overlaysettings.cpp" line="836"/>
         <source>Active Color</source>
-        <translation>Farbe für aktive Verbindung</translation>
+        <translation>Aktiv Farge</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="601"/>

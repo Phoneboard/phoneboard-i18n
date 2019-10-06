@@ -20,16 +20,20 @@ When you've finished create a pull request.
 
 Translation credits.
 ==================================
-* Arabic    [Haythem Hamdi]
-* Cambodian		[IC Fix Sothy]
-* Dansk     [Olgierd Nowakowski]
-* Finnish		[Ruuben Vuolasranta]
-* French		[Occaz'out]
-* German		[David "[At-M](https://github.com/At-M)" Schmidt]
-* Hungarian [Dani Bá]
-* Italian		[Nicola Ripiccini]
-* Polish    [Jakub Werwiński]
-
-
-
-
+| Language | Translator |
+| --- | --- |
+| Arabic            | Haythem Hamdi|
+| Cambodian	        | IC Fix Sothy|
+| Croatian          | Saša Valić|
+| Danish            | Olgierd Nowakowski|
+| Finnish	        | Ruuben Vuolasranta|
+| French            | Occaz'out|
+| German            | David "[At-M](https://github.com/At-M)" Schmidt|
+| Hungarian         | Dani Bá|
+| Italian	        | Nicola Ripiccini|
+| Lithuanian        | [VeryFastSnail](https://github.com/VeryFastSnail) |
+| Norwegian Bokmål  | Martin Refseth|
+| Polish            | Jakub Werwiński|
+| Portuguese        | Rúben Carneiro|(https://github.com/rubencarneiro)
+| Russian           | Олег Агекян|
+|Slovenian          | Jernej Klarič [@deecoy1337](https://github.com/deecoy1337)|
